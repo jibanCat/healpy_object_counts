@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# check point 
+.ipynb_checkpoints/
